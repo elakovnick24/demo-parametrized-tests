@@ -4,7 +4,6 @@
 
 ### JUnit <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" width="40" height="40"  alt="JUnit 5"/></a>
 
-### Description
 ___
 
 1. Simple test with annotation @ValueSource

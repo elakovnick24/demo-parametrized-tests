@@ -2,7 +2,7 @@
 
 ## Homework QA_GURU
 
-###JUnit <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" width="40" height="40"  alt="JUnit 5"/></a>
+### JUnit <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" width="40" height="40"  alt="JUnit 5"/></a>
 
 ### Description
 ___
